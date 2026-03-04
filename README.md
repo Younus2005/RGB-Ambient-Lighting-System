@@ -155,3 +155,13 @@ Example configuration in Arduino code:
 ```cpp
 #define DATA_PIN 6
 #define NUM_LEDS 64
+
+---
+
+Future Improvements
+
+• GPU-based lighting effects
+• AI beat prediction
+• Advanced screen sampling
+• True 3D lighting effects
+• Multi-monitor support
